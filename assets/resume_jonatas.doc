@@ -1,0 +1,118 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'>
+<head>
+<meta charset="utf-8">
+<title>Curriculo - Jonatas Lazarini Guerra</title>
+<!--[if gte mso 9]>
+<xml>
+<w:WordDocument>
+<w:View>Print</w:View>
+<w:Zoom>100</w:Zoom>
+<w:DoNotOptimizeForBrowser/>
+</w:WordDocument>
+</xml>
+<![endif]-->
+<style>
+body { font-family: Calibri, 'Segoe UI', Arial, sans-serif; color: #1e293b; line-height: 1.5; margin: 30px; }
+h1 { color: #0f172a; font-size: 24pt; margin-bottom: 2px; }
+.subtitle { color: #0284c7; font-size: 13pt; font-weight: bold; margin-bottom: 12px; }
+.contact-bar { background: #f1f5f9; padding: 10px 14px; border-radius: 6px; font-size: 10pt; color: #475569; margin-bottom: 20px; }
+h2 { color: #0369a1; font-size: 14pt; border-bottom: 2px solid #0284c7; padding-bottom: 4px; margin-top: 18px; text-transform: uppercase; letter-spacing: 0.5px; }
+.job { margin-bottom: 14px; }
+.job-title { font-size: 11.5pt; font-weight: bold; color: #0f172a; }
+.job-meta { font-size: 10pt; color: #64748b; margin-bottom: 4px; }
+ul { margin-top: 4px; margin-bottom: 8px; padding-left: 20px; }
+li { font-size: 10.5pt; margin-bottom: 3px; }
+.skills-table { width: 100%; border-collapse: collapse; margin-top: 8px; }
+.skills-table td { padding: 6px 10px; border: 1px solid #e2e8f0; font-size: 10pt; }
+.skills-header { background: #f8fafc; font-weight: bold; color: #0f172a; width: 25%; }
+</style>
+</head>
+<body>
+<h1>Jonatas Lazarini Guerra</h1>
+<div class="subtitle">Especialista em Soluções Digitais & Desenvolvedor Web Front-end</div>
+<div class="contact-bar">
+  <strong>Localização:</strong> Leiria, Portugal (R Principal N377, 2415-754) | 
+  <strong>Telemóvel/WhatsApp:</strong> (+351) 936575607<br>
+  <strong>Email:</strong> lazarinijonatas@gmail.com | 
+  <strong>Web:</strong> aodev.solutions | 
+  <strong>Instagram:</strong> @jonxtas_ | 
+  <strong>Nacionalidade:</strong> Brasileira (Autorização de Trabalho Portuguesa)
+</div>
+
+<h2>1. Resumo Profissional</h2>
+<p>Profissional responsável, pontual e multifacetado, com sólida vivência operacional, administrativa, comercial e em desenvolvimento web. Atualmente atuando em Portugal como consultor e vendedor especializado de soluções tecnológicas na <strong>AODEV Solutions</strong>, ajudando empresas a estruturarem sua presença digital e impulsionarem seus resultados. Conhecimentos práticos em HTML5, CSS3, fundamentos de Java, Excel Avançado e gestão de processos empresariais. Capacidade demonstrada de adaptação rápida e foco em excelência no atendimento ao cliente.</p>
+
+<h2>2. Experiência Profissional</h2>
+<div class="job">
+  <div class="job-title">Vendedor Especializado / Consultor de Soluções Digitais — AODEV Solutions</div>
+  <div class="job-meta">01/01/2025 – Presente | Leiria, Portugal</div>
+  <ul>
+    <li>Consultoria direta com gestores de negócios para diagnóstico e implantação de soluções digitais.</li>
+    <li>Concepção, arquitetura e entrega de websites modernos e responsivos (ex: plataforma oficial <em>Junio DSL</em>).</li>
+    <li>Atendimento personalizado ao cliente, negociação de escopo técnico e acompanhamento pós-entrega.</li>
+  </ul>
+</div>
+
+<div class="job">
+  <div class="job-title">Pintor da Construção Civil & Montador Técnico — Artemil</div>
+  <div class="job-meta">Pataias, Portugal</div>
+  <ul>
+    <li>Execução de pintura especializada de acabamento fino e assentamento técnico de vidros.</li>
+    <li>Rigoroso cumprimento de prazos, controle de desperdício de insumos e normas de segurança europeias.</li>
+  </ul>
+</div>
+
+<div class="job">
+  <div class="job-title">Auxiliar de Expedição & Faturamento — Palácio das Ferramentas e Parafusos LTDA</div>
+  <div class="job-meta">17/04/2024 – 21/02/2025 | Franca/SP, Brasil</div>
+  <ul>
+    <li>Emissão técnica de Notas Fiscais Eletrônicas (NF-e) e faturamento de pedidos industriais e varejo.</li>
+    <li>Conferência e liberação logística de expedição de mercadorias junto a transportadoras e motoristas.</li>
+  </ul>
+</div>
+
+<div class="job">
+  <div class="job-title">Especialista em Detalhamento Automotivo (Car Detail) — Rex Auto Detailing</div>
+  <div class="job-meta">13/03/2023 – 15/04/2024 | Franca/SP, Brasil</div>
+  <ul>
+    <li>Lavagem técnica minuciosa, polimento automotivo corretivo e aplicação de vitrificadores e vernizes de vidro.</li>
+    <li>Restauração estética de superfícies e elevado índice de retenção de clientes por atenção máxima ao detalhe.</li>
+  </ul>
+</div>
+
+<div class="job">
+  <div class="job-title">Assistente Administrativo & Controle de Produção — Evasoft Indústria e Comércio LTDA</div>
+  <div class="job-meta">01/09/2021 – 20/02/2023 | Franca/SP, Brasil</div>
+  <ul>
+    <li>Construção e gestão diária de planilhas de controle de fluxo produtivo em Microsoft Excel.</li>
+    <li>Escrituração, conferência e gestão de Notas Fiscais em sistema integrado de gestão (ERP).</li>
+  </ul>
+</div>
+
+<div class="job">
+  <div class="job-title">Estoquista & Auxiliar de Almoxarifado — L. E. N. de Souza</div>
+  <div class="job-meta">14/04/2021 – 31/08/2021 | Franca/SP, Brasil</div>
+  <ul>
+    <li>Controle físico e digital de entradas e saídas de mercadorias e inventário rotativo preventivo.</li>
+  </ul>
+</div>
+
+<h2>3. Formação Acadêmica & Qualificações</h2>
+<ul>
+  <li><strong>Curso de Língua Inglesa:</strong> Instituição Twofold (Portugal) — Em frequência para desenvolvimento pessoal e profissional</li>
+  <li><strong>Ensino Secundário / Médio Completo</strong></li>
+  <li><strong>Capacitação em Desenvolvimento Web:</strong> HTML5 Semântico, CSS3 Moderno, JavaScript e Noções de Java</li>
+  <li><strong>Informática Avançada & Microsoft Excel Profissional:</strong> Fórmulas complexas, controle e dashboards</li>
+  <li><strong>Rotinas Administrativas e Emissão Fiscal:</strong> Domínio de ERPs e faturamento</li>
+</ul>
+
+<h2>4. Idiomas</h2>
+<ul>
+  <li><strong>Português:</strong> Língua Materna</li>
+  <li><strong>Inglês:</strong> Em aperfeiçoamento contínuo na instituição Twofold (Portugal) para uso pessoal e profissional</li>
+</ul>
+
+<h2>5. Cartas de Condução</h2>
+<p>Categorias A2, A e B (Portugal e Internacional).</p>
+</body>
+</html>

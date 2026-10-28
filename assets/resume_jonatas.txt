@@ -1,0 +1,103 @@
+================================================================================
+                    JONATAS LAZARINI GUERRA - CURRÍCULO
+================================================================================
+Nacionalidade: Brasileira | Autorização de Trabalho Válida
+Telemóvel / WhatsApp: (+351) 936 575 607
+Email: lazarinijonatas@gmail.com
+LinkedIn: https://www.linkedin.com/in/jonatas-lazarini-guerra-123101265/?isSelfProfile=true
+GitHub: https://github.com/Jonataswilds
+Website: https://aodev.solutions | Instagram: @jonxtas_
+Cartas de Condução: A, A2, B
+
+--------------------------------------------------------------------------------
+1. RESUMO PROFISSIONAL
+--------------------------------------------------------------------------------
+Profissional dinâmico, dedicado e com sólida vivência multidisciplinar em
+operações, atendimento comercial, gestão administrativa e desenvolvimento web.
+Atuando como Vendedor Especializado e Consultor na AODEV Solutions,
+conectando empresas a soluções digitais de alto impacto tecnológico,
+com foco em modernização, presença digital e automação.
+Perfil analítico com formação prática em HTML5, CSS3, fundamentos de
+JavaScript, interesse e aprofundamento contínuo em JavaScript e C++,
+Microsoft Excel avançado e gestão de processos. Pontualidade rigorosa e foco
+em entregas com alto padrão estético e técnico.
+
+--------------------------------------------------------------------------------
+2. EXPERIÊNCIA PROFISSIONAL
+--------------------------------------------------------------------------------
+• AODEV Solutions
+  Cargo: Vendedor Especializado & Consultor de Soluções Digitais
+  Período: 01/01/2025 – Presente
+  Atividades e Resultados:
+  - Prospecção e consultoria para clientes que buscam transformação digital.
+  - Levantamento de requisitos, arquitetura de soluções web e acompanhamento de
+    desenvolvimento de ponta a ponta.
+  - Entrega de projetos completos, como a plataforma da Junio DSL
+    (https://juniodsl.com), modernizando a apresentação comercial e captação de
+    orçamentos da construtora.
+
+• Artemil
+  Cargo: Pintor da Construção Civil & Assentamento de Vidros
+  Período: 01/03/2026 – 01/06/2026
+  Atividades e Resultados:
+  - Execução de pinturas industriais e civis de alto acabamento e precisão.
+  - Assentamento técnico de vidros e elementos de fechamento estrutural.
+  - Rígido cumprimento de normas de segurança no trabalho e pontualidade.
+
+• Palácio das Ferramentas e Parafusos LTDA
+  Cargo: Auxiliar de Expedição & Faturamento
+  Período: 17/04/2024 – 21/02/2025
+  Atividades e Resultados:
+  - Emissão de Notas Fiscais eletrônicas (NF-e) com conformidade tributária.
+  - Conferência e liberação logística de cargas e expedição de pedidos.
+  - Suporte direto a motoristas e transportadoras parceiras, reduzindo atrasos.
+
+• Rex Auto Detailing
+  Cargo: Especialista em Detalhamento Automotivo (Car Detail)
+  Período: 13/03/2023 – 15/04/2024
+  Atividades e Resultados:
+  - Serviços de alto padrão: polimento técnico, restauração e proteção.
+  - Restauração de superfícies desgastadas e aplicação de verniz protetor em vidros.
+  - Elevada retenção e satisfação de clientes pelo rigor aos detalhes.
+
+• Evasoft Indústria e Comércio LTDA
+  Cargo: Assistente de Administração e Controle de Produção
+  Período: 01/09/2021 – 20/02/2023
+  Atividades e Resultados:
+  - Gestão e automação de planilhas de controle de fluxo produtivo em Excel.
+  - Acompanhamento diário de metas da linha de fabricação e balanços de insumos.
+  - Gestão e escrituração de Notas Fiscais em sistema ERP.
+
+• L. E. N. de Souza
+  Cargo: Estoquista & Auxiliar de Almoxarifado
+  Período: 14/04/2021 – 31/08/2021
+  Atividades e Resultados:
+  - Recebimento, conferência, etiquetagem e armazenagem de mercadorias.
+  - Inventário rotativo e controle preventivo de perdas no estoque.
+
+--------------------------------------------------------------------------------
+3. COMPETÊNCIAS & HABILIDADES
+--------------------------------------------------------------------------------
+Habilidades:
+- HTML5, CSS3, JavaScript (ES6+), C++ (em aprofundamento), Design Responsivo
+- Microsoft Excel Avançado, Sistemas ERP e Emissão de NF-e
+- Gestão de Almoxarifado, Expedição Logística, Detalhamento Técnico
+- Atendimento Comercial, Vendas Consultivas e Negociação
+- Organização Rigorosa, Pontualidade & Atenção aos Detalhes
+
+--------------------------------------------------------------------------------
+4. IDIOMAS
+--------------------------------------------------------------------------------
+• Português: Nativo
+• Inglês: (In Progress)
+
+--------------------------------------------------------------------------------
+5. PROJETOS EM DESTAQUE
+--------------------------------------------------------------------------------
+• Plataforma Junio DSL (https://juniodsl.com) [Projeto Concluído]
+  Website responsivo institucional desenvolvido para renomada empresa de
+  engenharia e construção civil, com catálogo interativo de obras, portfólio
+  multimídia e canal automatizado para solicitação de orçamentos.
+• AODEV Solutions Hub (https://aodev.solutions)
+  Consultoria e vendas de infraestrutura digital e websites modernos.
+================================================================================
